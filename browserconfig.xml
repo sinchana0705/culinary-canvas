@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 70 70'%3E%3Crect fill='%23d97a89' width='70' height='70' rx='8'/%3E%3Ctext x='35' y='45' font-size='28' text-anchor='middle' fill='white'%3E🍳%3C/text%3E%3C/svg%3E"/>
+            <square150x150logo src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 150 150'%3E%3Crect fill='%23d97a89' width='150' height='150' rx='15'/%3E%3Ctext x='75' y='95' font-size='60' text-anchor='middle' fill='white'%3E🍳%3C/text%3E%3C/svg%3E"/>
+            <square310x310logo src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 310 310'%3E%3Crect fill='%23d97a89' width='310' height='310' rx='30'/%3E%3Ctext x='155' y='195' font-size='120' text-anchor='middle' fill='white'%3E🍳%3C/text%3E%3C/svg%3E"/>
+            <wide310x150logo src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 310 150'%3E%3Crect fill='%23d97a89' width='310' height='150' rx='15'/%3E%3Ctext x='155' y='95' font-size='60' text-anchor='middle' fill='white'%3E🍳%3C/text%3E%3C/svg%3E"/>
+            <TileColor>#d97a89</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>
